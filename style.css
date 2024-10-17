@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    background-color: #1c1b1b;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+    margin-top: 20px;
+    border: 3px solid #ccc;
+}
